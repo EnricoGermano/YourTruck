@@ -19,7 +19,7 @@ var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQ2KJi3qYG9y9lpmXyXLC6zM-wTuDZAc0&callback=myMap"></script>
+<script src="//use sua API Key do Google Maps"></script>
 
 </body>
 </html>''
